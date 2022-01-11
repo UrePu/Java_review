@@ -1,0 +1,12 @@
+package tut2;
+
+public class Main4 {
+
+	public static void main(String[] args) {
+
+		String name =  "Coco";
+		System.out.println(name);
+		System.out.println(name.substring(0,1));
+	}
+
+}
